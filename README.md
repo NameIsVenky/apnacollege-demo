@@ -1,2 +1,2 @@
 # github
-Practice All Github commands 
+Practice All Github Commands 
