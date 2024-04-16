@@ -1,18 +1,20 @@
 # github
 Practice All Github Commands 
+<br>
 Author - Tony Stark
 <br>
 Topic - Git Commands
 <br>
-
 Clone :
 <br>
 git clone HTTP request(url)
 git status
-
 <br>
 
-Two Satges after modified - add , commit
+```
+Two Satges after modified
+ - add 
+ - commit
 step :1
 <br>
 =>git add file_name (incase single file)
@@ -25,8 +27,8 @@ staged - file is ready to be committed
 unmodified-unchanged
 step :2
 <br>
-=>git commit -m "add comment - description about modification"
-
+git commit -m "add comment - description about modification"
+```
 
 
 
